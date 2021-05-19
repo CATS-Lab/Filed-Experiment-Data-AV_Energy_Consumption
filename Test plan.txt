@@ -1,0 +1,4 @@
+1.   60 mph     HV-HV   HV-AV  AV-HV   AV-AV
+2.   50 mph
+3.   40 mph
+4.   30 mph
