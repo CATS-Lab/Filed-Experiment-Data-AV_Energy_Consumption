@@ -3,5 +3,5 @@ Data for research Shi, X., Yao, H., Liang, Z., & Li, X. (2022). An empirical stu
 
 ## Experiment plan:
 Four scenarios: AV follows AV; AV follows HV; HV follows AV; HV follows HV; <br>
-Different speed ranges: 30-60 mph
-Different speed variation: 2-10 mph
+Different speed ranges: 30-60 mph <br>
+Different speed variation: 2-10 mph <br>
